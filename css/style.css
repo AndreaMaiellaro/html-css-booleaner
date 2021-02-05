@@ -48,4 +48,8 @@ h1 {
 .photo {
   margin-top: 20px;
 }
+
+.caption {
+  font-size: 10px;
+}
 /* fine main */
