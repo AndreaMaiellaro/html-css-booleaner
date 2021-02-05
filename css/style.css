@@ -20,3 +20,14 @@ header {
   height: 50px;
 }
 /* fine header */
+
+/* main */
+main {
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 36px;
+  line-height: 37px;
+}
+/* fine main */
