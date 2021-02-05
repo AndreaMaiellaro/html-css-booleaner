@@ -30,4 +30,13 @@ h1 {
   font-size: 36px;
   line-height: 37px;
 }
+
+.author {
+  color: gray;
+  font-size: 20px;
+}
+
+.author span {
+  color: lightblue;
+}
 /* fine main */
