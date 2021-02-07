@@ -9,12 +9,17 @@ header {
   background-image: url("../img/pattern.png");
   background-size: 350px;
 }
-
+/* coomon */
 .container {
   width: 1024px;
   margin: auto;
 }
 
+.highlight {
+  background-color: yellow;
+}
+
+/* fine coomon */
 .logo {
   margin-top: 30px;
   height: 50px;
@@ -51,5 +56,13 @@ h1 {
 
 .caption {
   font-size: 10px;
+}
+
+.article-body {
+  margin-top: 20px;
+}
+
+.list {
+  margin-top: 20px;
 }
 /* fine main */
